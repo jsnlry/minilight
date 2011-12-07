@@ -1,0 +1,23 @@
+
+===============================================================================
+ minilight - illumination for your model railway
+===============================================================================
+
+ website: https://github.com/jsnlry/minilight/wiki
+ author:  jason leroy (jsnlry@gmail.com)
+ license: MIT
+
+
+--- WARNING --- WARNING --- WARNING --- WARNING --- WARNING --- WARNING ---
+
+The project is not finished yet - or in other words: it does not work so far. The promises below are goals to be reached (e.g. the mentioned wiki pages may not exist by now). If you want to help or just think of using miwulight for your own project, I would be glad to hear from you!
+
+--- WARNING --- WARNING --- WARNING --- WARNING --- WARNING --- WARNING ---
+
+
+minilight is a system for controlling the lights of a model railway scenery. minilight controls traffic lights, turns your LEDs into flickering striplights, simulates the daylight with the ambient light of your room and much more.
+
+minilight is not just software. It also contains many hardware specifications. If you want to use minilight take a look at the wiki pages and especially at the getting started guide (https://github.com/jsnlry/minilight/wiki/gettingstarted).
+
+By the way: minilight tries to be a clone of MiWuLight which is developed by and used at the Miniaturwunderland in Hamburg.
+
